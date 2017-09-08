@@ -27,6 +27,23 @@ db.once('open', function () {
     console.log('connect success')
 })
 
+// let models_path = __dirname + '/app/models'
+// let walk = function(path) {
+//     fs.readdirSync(path)
+//     .forEach(function(file) {
+//         let newPath = path + '/' + file
+//         let stat = fs.statSync(newPath)
+//         if (stat.isFile()) {
+//             if(/(.*)\.(js|coffee)/.test(file)) {
+//                 require(newPath)
+//             }
+//         } else if (stat.isDirectory()) {
+//             walk(newPath)
+//         }
+//     })
+// }
+// walk(models_path)
+
 // app.use(cookieParser())
 app.use(session({
     secret: 'imooc',
