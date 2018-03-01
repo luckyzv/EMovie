@@ -1,4 +1,4 @@
-# MovieP
+# ImoocMovie
 
 基于Scott老师视频所做的项目
 
@@ -19,27 +19,26 @@
 
 （6）分页功能。对多个电影条目进行分页展示。
 
-目前仍处于不完善阶段，日后会逐渐更新。
 
 ### 截图展示
 
-主页
+- 主页
 
 ![alt](http://oo17grgho.bkt.clouddn.com/%E4%B8%BB%E9%A1%B5.png)
 
-电影详情页
+- 电影详情页
 
 ![](http://oo17grgho.bkt.clouddn.com/%E8%AF%A6%E6%83%85%E9%A1%B5.png)
 
-后台录入页
+- 后台录入页
 
 ![](http://oo17grgho.bkt.clouddn.com/%E5%90%8E%E5%8F%B0%E5%BD%95%E5%85%A5%E9%A1%B5.png)
 
-分类列表页
+- 分类列表页
 
 ![](http://oo17grgho.bkt.clouddn.com/%E5%88%86%E7%B1%BB%E5%88%97%E8%A1%A8%E9%A1%B5.png)
 
-电影列表页
+- 电影列表页
 
 ![](http://oo17grgho.bkt.clouddn.com/%E7%94%B5%E5%BD%B1%E5%88%97%E8%A1%A8%E9%A1%B5.png)
 
